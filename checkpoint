@@ -1,0 +1,6 @@
+model_checkpoint_path: "/root/tfdata/trained/model.ckpt-1482"
+all_model_checkpoint_paths: "/root/tfdata/trained/model.ckpt-1271"
+all_model_checkpoint_paths: "/root/tfdata/trained/model.ckpt-1324"
+all_model_checkpoint_paths: "/root/tfdata/trained/model.ckpt-1377"
+all_model_checkpoint_paths: "/root/tfdata/trained/model.ckpt-1430"
+all_model_checkpoint_paths: "/root/tfdata/trained/model.ckpt-1482"
